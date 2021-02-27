@@ -1,0 +1,1 @@
+Script Temelleri Programlara Giriş: R ve Python
